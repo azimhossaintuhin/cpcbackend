@@ -1,0 +1,3 @@
+# assignment 2
+1. take input  of a list length  and create  a list  based on  user input and than  show the count  of  how many  even  and odd  number  are  there  in  the  list
+2.  Take user input and show  me the list  of  three  calss member name , address , email minimum  5  or  can be extended 
