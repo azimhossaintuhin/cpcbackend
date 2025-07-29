@@ -24,11 +24,14 @@ print(float)
 print(boolean)
 
 
+
 # Show the type of each variable
 print(type(string))
 print(type(integer))
 print(type(float))
 print(type(boolean))
+
+
 
 # why class
 # for type  the class  have come 
