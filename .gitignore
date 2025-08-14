@@ -1,0 +1,41 @@
+# Django
+*.pyc
+__pycache__/
+db.sqlite3
+*.sqlite3
+
+# Media and static files
+/media/
+staticfiles/
+static/
+
+# Environment
+.env
+*.env
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log
+
+# Migrations
+*/migrations/
+*/migrations/*.pyc
+*/migrations/*.py
+
+# Node modules (if using frontend)
+node_modules/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# Other
+*.swp
+*.swo
+.idea/
